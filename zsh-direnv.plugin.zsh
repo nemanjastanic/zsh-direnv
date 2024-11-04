@@ -1,0 +1,1 @@
+direnv.plugin.zsh
